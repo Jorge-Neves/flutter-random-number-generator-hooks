@@ -16,7 +16,7 @@ class AppWidget extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.pink,
       ),
-      home: const RangeSelectorPage(),
+      home: RangeSelectorPage(),
     );
   }
 }
